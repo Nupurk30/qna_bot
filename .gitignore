@@ -1,0 +1,10 @@
+
+.env
+# Python
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local Vector Database
+db/
